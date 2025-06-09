@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: SampleProject
+Version: 0.0.1
+Author: Umair Ali
+Author-email: umair.tech@outlook.com
+Requires-Dist: langchain
+Requires-Dist: numpy
+Requires-Dist: pandas
